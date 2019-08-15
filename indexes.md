@@ -41,6 +41,7 @@ PUT data/_doc/2
     "language": "th",
     "tenantId": "abc"
 }
+GET data/_search
 ```
 
 ## Tenant fields in one index
